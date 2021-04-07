@@ -1,0 +1,16 @@
+.asboot h1 {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(9, 96, 107);
+}
+
+.btn {
+  color: white;
+  background: cornflowerblue;
+  padding: 15px 40px 15px 40px;
+}
+
+.btn:hover {
+  color: white;
+  background: grey;
+  padding: 15px 40px 15px 40px;
+}
